@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Inicial {
 
+    // ejemplo de comentario
     // Variables de clase
     int numero=0;
     Integer numeroComplejo = 213;
